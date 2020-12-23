@@ -6,13 +6,11 @@
 
 Nascida e criada em **Salvador**, na Bahia, me mudei (sozinha) com 17 anos para **Curitiba**, onde moro até hoje. 
 Durante minha formação em **Engenheira Elétrica**, estagiei em Fábrica, Porto e Escritório de Consultoria (incluindo uma experiência internacional!).
-Ao concluir minha formação, entrei no Programa de **Trainee** da BRF (Sadia/Perdigão). Fiz um job rotation pelo Brasil, aprendendo sobre o varejo, a cadeia produtiva, e principalmente a logística de distribuição de produtos! Participei de diversos **projetos de produtividade**, treinei colaboradores sobre **métodos de melhoria contínua**, até chegar à **gestão estratégica de indicadores**.
-
-Foram mais de 42 indicadores produzidos, 326 metas metas calculadas e 730 relatórios de performance apresentados!
+Ao concluir minha formação, entrei no Programa de **Trainee** da BRF (Sadia/Perdigão). Fiz um job rotation pelo Brasil, aprendendo sobre o varejo, a cadeia produtiva, e principalmente a logística de distribuição de produtos! Nos quase 4 anos que estive lá, participei de diversos **projetos de produtividade**, treinei colaboradores sobre **métodos de melhoria contínua**, até chegar à **gestão estratégica de indicadores**.
 
 Sempre fui apaixonada por este espaço onde a **matemática e os negócios** se cruzam, e desenvolvi **facilidade em me comunicar** com esses dois universos que muitas vezes não falam a mesma língua.
 
-Atualmente estou aperfeiçoando meus conhecimentos em **Machine Learning**, a fim de **ir além da visualização dos dados** e ser capaz de contribuir com insights mais assertivos através da análise preditiva dos dados.
+Atualmente estou aperfeiçoando meus conhecimentos em **Machine Learning**, a fim de **ir além da visualização dos dados** e ser capaz de contribuir com insights mais assertivos para tomada de decisão através da análise preditiva dos dados.
 
 **Conhecimentos em:** Python, R, Machine Learning, Power BI, SQL, Lean SixSigma, Agile.
 
