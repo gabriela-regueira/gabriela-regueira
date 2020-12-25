@@ -12,16 +12,12 @@ Sempre fui apaixonada por este espaço onde a **matemática e os negócios** se 
 
 Atualmente estou aperfeiçoando meus conhecimentos em **Machine Learning**, a fim de **ir além da visualização dos dados** e ser capaz de contribuir com insights mais assertivos para tomada de decisão através da análise preditiva dos dados.
 
-**Conhecimentos em:** Python, R, Machine Learning, Power BI, SQL, Lean SixSigma, Agile.
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/gabriela-regueira)
-* [Medium](https://www.medium.com/@gabrielareg)
+**Conheça mais da minha trajetória no meu [LinkedIn](https://www.linkedin.com/in/gabriela-regueira)
 
 ## Projetos:
 
-* **Estatística Descritiva com Cartas de Baralho:** https://bit.ly/3ogwbKY
 * **Classificando Câncer de Mama com SVM:** https://bit.ly/37HmtdU
+* **Estatística Descritiva com Cartas de Baralho:** https://bit.ly/3ogwbKY
 * **Clustering Universities using KMean Method [EN]:** https://bit.ly/3756wiC
 * **Anti-spam filter using NLP [EN]:** https://bit.ly/2IJXHS4
 ---
