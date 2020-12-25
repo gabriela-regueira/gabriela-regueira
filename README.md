@@ -12,7 +12,7 @@ Sempre fui apaixonada por este espaço onde a **matemática e os negócios** se 
 
 Atualmente estou aperfeiçoando meus conhecimentos em **Machine Learning**, a fim de **ir além da visualização dos dados** e ser capaz de contribuir com insights mais assertivos para tomada de decisão através da análise preditiva dos dados.
 
-Conheça mais da minha trajetória no meu **[LinkedIn](https://www.linkedin.com/in/gabriela-regueira) ✨
+Conheça mais da minha trajetória no meu [LinkedIn](https://www.linkedin.com/in/gabriela-regueira) ✨
 
 ## Projetos:
 
