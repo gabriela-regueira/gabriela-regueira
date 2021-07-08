@@ -17,8 +17,5 @@ Sempre fui apaixonada por este espaço onde a **matemática e os negócios** se 
 * **Clustering Universities using KMean Method [EN]:** https://bit.ly/3756wiC
 * **Anti-spam filter using NLP [EN]:** https://bit.ly/2IJXHS4
 
-Comecei a **programar como um hobby**, e em pouco tempo já estava completamente apaixonada pela área de tecnologia. Foi aí que descobri o mundo do **frontend**, que mescla além do raciocínio lógico, a inteligência visual. Sempre quis desenvolver mais esse aspecto em mim, porque sempre gostei muito de criar coisas visualmente bonitas. (Já costurei, fiz mandalas, velas, bolsas, crochê, pintura...) Me encantei com a ideia de produzir interfaces, sites, apps, dispositivos úteis, eficientes e bonitos, de acordo com a necessidade do usuário.
-E é aqui que me encontro hoje! **Aprendendo HTML, CSS, JavaScript**, dezenas de frameworks, dentre outras ferramentas, fazendo o que mais gosto de fazer nas horas vagas: ✨codar!✨
-
 ---
 Conheça mais da minha trajetória no meu [LinkedIn](https://www.linkedin.com/in/gabriela-regueira) ✨
